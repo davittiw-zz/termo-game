@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@900&family=Source+Sans+Pro:wght@900&display=swap');
+
+body{
+    font-family: "rubik";
+    background-color: rgb(150, 35, 35);
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.021);
+    top: 10px;
+    height: 20px;
+    left: 35%;
+}
+
+.header h1{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+.header button{
+    color: white;
+    border: rgb(255, 255, 255) 0.5px;
+    border-radius: 5px;
+    background-color: #0000006c;
+    border-style: solid;
+    width: 20px;
+    height: 20px;
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    font-size: 12px;
+    margin: 0 1px;
+}
+
+main {
+
+}
